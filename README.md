@@ -14,6 +14,6 @@
 
 2.**Установите зависимости**
 
-cv2
+  cv2
 
 ![Figure_1](https://github.com/user-attachments/assets/77aaab6c-330c-476b-ba12-09f4a0fcbfe5)
